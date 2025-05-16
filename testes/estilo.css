@@ -21,3 +21,17 @@ table tr td {
     padding-bottom: 20px;/*margim interna esquerda*/
     padding-left: 20px;/*margem interna direita*/
  }
+
+h1{
+ color: #3275a8; 
+ font-size: 50px;
+ font-family: 'jokerman';
+  
+}
+p{
+color: #FF00FF;
+   font-family:'Algerian';
+   font-size: 35px;
+   font-weight: bold;
+}
+
