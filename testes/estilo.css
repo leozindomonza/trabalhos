@@ -30,8 +30,11 @@ h1{
 }
 p{
 color: #FF00FF;
-   font-family:'Algerian';
+   font-family:font-family: "Inter",'sans-serif';
    font-size: 35px;
    font-weight: bold;
-}
+   text-align: justify;
+   padding-left: 20px;
+   padding-right: 20px;
+
 
