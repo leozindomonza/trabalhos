@@ -1,0 +1,17 @@
+table tr td{
+	border: 1px solid black;
+}
+ table{
+ 	width: 80%;
+ 	margin: auto;
+ }
+ td{
+ 	font-size: 20px;
+ 	color: #000000;
+ 	font-family:'jokerman' ;
+ }
+center{
+	font-family: Goudy Stout;
+}
+
+
